@@ -4,3 +4,4 @@ No regrets so far learning DevOps
 I cant wait to feel confident to start applying for jobs
 echo I cant wait to feel confident to start applying for jobs
 I love Devops.
+This course ends in December
