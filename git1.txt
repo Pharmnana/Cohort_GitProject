@@ -4,3 +4,6 @@ Mango
 Orange
 Watermelon
 Banana
+Strawberry
+Guave
+Soursop
