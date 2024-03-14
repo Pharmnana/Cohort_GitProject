@@ -3,3 +3,4 @@ iOS
 windows
 linux
 chrome
+linux ubuntu
